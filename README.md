@@ -1,42 +1,33 @@
-```bash
-$ whoami
-Akhil Kailas
-<Full-Stack Web Developer />
+# Akhil Kailas
 
-$ info
-Role       : Full-Stack
-Code Style : Clear & Precise
-Focus      : Web Systems
+Full-Stack Web Developer
 
-$ about
-Designing and implementing full-stack web systems
-that balance performance, maintainability, and clarity.
+I build modern web experiences with a focus on performance, usability, and clean code.
 
-Experience with modern JavaScript frameworks, Node.js APIs,
-and database architectures. Blockchain explored only when
-it adds functional value.
+## Tech Stack
 
-Guiding principle:
-  - Keep code readable and maintainable
-  - Solve problems with precise, pragmatic solutions
+### Core
+JavaScript · TypeScript · Node.js · Express · React · Angular
 
-$ tech_stack
-Core        : JavaScript, TypeScript, Node.js, Express, React, Angular
-UI          : HTML, CSS, Tailwind, Bootstrap
-Data        : MongoDB, PostgreSQL, Redis
-Testing     : Mocha, Chai, k6
-Blockchain  : Solidity, Ethereum, Hyperledger Fabric
-DevOps      : Docker, Vercel, Render, Git
-Tools       : VS Code, Postman
+### UI
+HTML · CSS · Tailwind · Bootstrap
 
-$ motto
-"Building systems that are efficient, understandable, and practical."
+### Data
+MongoDB · PostgreSQL · Redis
 
-$ contact
-GitHub     : https://github.com/akhilkailas017
-LinkedIn   : https://www.linkedin.com/in/akhilkailas017/
-Email      : akhilkailas2001@gmail.com
+### Testing
+Mocha · Chai · k6
 
-$ exit
-logout
-```
+### Blockchain
+Solidity · Ethereum · Hyperledger Fabric
+
+### DevOps
+Docker · Git
+
+### Tools
+VS Code · Postman
+
+## Contact
+
+- Email: akhilkailas2001@gmail.com
+- LinkedIn: [akhilkailas017](https://www.linkedin.com/in/akhilkailas017/)
