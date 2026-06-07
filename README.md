@@ -1,33 +1,24 @@
 # Akhil Kailas
 
-Full-Stack Web Developer
+**Full-Stack Web Developer**
 
-I build modern web experiences with a focus on performance, usability, and clean code.
+Building scalable, high-performance web applications with modern technologies, clean code, and great user experiences.
 
 ## Tech Stack
 
-### Core
-JavaScript · TypeScript · Node.js · Express · React · Angular
+**Frontend:** React, Angular, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap
 
-### UI
-HTML · CSS · Tailwind · Bootstrap
+**Backend:** Node.js, Express.js
 
-### Data
-MongoDB · PostgreSQL · Redis
+**Database:** MongoDB, PostgreSQL, Redis
 
-### Testing
-Mocha · Chai · k6
+**Blockchain:** Solidity, Ethereum, Hyperledger Fabric
 
-### Blockchain
-Solidity · Ethereum · Hyperledger Fabric
+**Testing:** Mocha, Chai, k6
 
-### DevOps
-Docker · Git
-
-### Tools
-VS Code · Postman
+**DevOps & Tools:** Docker, Git, VS Code, Postman
 
 ## Contact
 
-- Email: akhilkailas2001@gmail.com
-- LinkedIn: [akhilkailas017](https://www.linkedin.com/in/akhilkailas017/)
+📧 [akhilkailas2001@gmail.com](mailto:akhilkailas2001@gmail.com)
+💼 LinkedIn: akhilkailas017
