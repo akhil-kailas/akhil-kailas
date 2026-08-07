@@ -1,14 +1,14 @@
 <!-- ===================================================== -->
-<!--                    GITHUB PROFILE                     -->
+<!--                  AKHIL KAILAS PROFILE                 -->
 <!-- ===================================================== -->
 
 <div align="center">
 
 # AKHIL KAILAS
 
-### Full Stack Developer · Web3 Engineer · Building Modern Experiences
+### Full Stack Developer · Web3 Engineer · Building Modern Web Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=3FA9F5&center=true&vCenter=true&width=650&lines=Angular+%7C+React+%7C+Node.js;Scalable+Web+Applications;Smart+Contract+Development;Clean+Architecture+%26+Performance;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=3FA9F5&center=true&vCenter=true&width=700&lines=Angular+%7C+React+%7C+Node.js;Express.js+%7C+MongoDB+%7C+PostgreSQL;Blockchain+Developer;Hyperledger+Fabric+%7C+Solidity;Building+Scalable+Applications"/>
 
 </div>
 
@@ -63,6 +63,8 @@
 
 <img src="https://skillicons.dev/icons?i=bootstrap"/>
 
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
 </p>
 
 </td>
@@ -75,15 +77,19 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
+<img src="https://skillicons.dev/icons?i=express"/>
+
 <img src="https://skillicons.dev/icons?i=postgres"/>
 
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 
 <img src="https://skillicons.dev/icons?i=redis"/>
 
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
 </p>
 
@@ -103,13 +109,9 @@
 
 <img src="https://skillicons.dev/icons?i=postman"/>
 
-<img src="https://skillicons.dev/icons?i=npm"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=yarn"/>
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira"/>
-
-<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha"/>
+<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
 
 </p>
 
@@ -137,19 +139,21 @@
 # CURRENT FOCUS
 
 ```text
-Designing scalable full-stack applications
+Building scalable full-stack applications
 
-Building secure REST APIs
+REST API Development with Express.js
 
-Developing smart contracts with Solidity
+Angular & React Frontend Engineering
 
-Creating responsive Angular & React interfaces
+Blockchain Development using Hyperledger Fabric & Solidity
 
-Database architecture and optimization
+Authentication & Secure Architectures
 
-Containerized deployments with Docker
+Database Design and Performance Optimization
 
-Performance-first engineering
+Dockerized Deployments
+
+Clean Architecture & Maintainable Code
 ```
 
 ---
@@ -186,13 +190,18 @@ Performance-first engineering
 
 <div align="center">
 
-```
-while(alive){
-    learn();
-    build();
-    improve();
-    repeat();
-}
+```cpp
+class Developer {
+public:
+    void dailyRoutine() {
+        while (true) {
+            Learn();
+            Build();
+            Debug();
+            Improve();
+        }
+    }
+};
 ```
 
 </div>
