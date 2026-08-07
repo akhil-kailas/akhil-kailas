@@ -122,20 +122,6 @@
 
 ---
 
-# CREATIVE
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-
-</div>
-
----
-
 # CURRENT FOCUS
 
 ```text
