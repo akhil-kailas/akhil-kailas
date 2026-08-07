@@ -1,28 +1,29 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ===================================================== -->
+<!--                    GITHUB PROFILE                     -->
+<!-- ===================================================== -->
 
-<h1 align="center">
-  Hi 👋, I'm Akhil Kailas
-</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • Web3 Enthusiast • UI/UX Lover
-</h3>
+# AKHIL KAILAS
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%7C+React+%7C+Node.js;Blockchain+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
-</p>
+### Full Stack Developer · Web3 Engineer · Building Modern Experiences
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=3FA9F5&center=true&vCenter=true&width=650&lines=Angular+%7C+React+%7C+Node.js;Scalable+Web+Applications;Smart+Contract+Development;Clean+Architecture+%26+Performance;Always+Learning+Something+New"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-<a href="https://instagram.com/akhilkailas_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+### CONNECT
 
 <a href="https://linkedin.com/in/akhilkailas017">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/akhilkailas_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://youtube.com/@akhilkailas_">
@@ -32,153 +33,174 @@ Full Stack Developer • Web3 Enthusiast • UI/UX Lover
 <a href="mailto:akhilkailas2001@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-# ⚡ Tech Arsenal
+# STACK
 
-## 🎨 Frontend
+<table align="center">
+<tr>
+
+<td valign="top" width="33%">
+
+### FRONTEND
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=angular"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
 
 </p>
 
----
+</td>
 
-## ⚙ Backend & Web3
+<td valign="top" width="33%">
+
+### BACKEND
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=redis"/>
+
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity"/>
 
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
 
 </p>
 
----
+</td>
 
-## 🗄 Database
+<td valign="top" width="33%">
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
-
-</p>
-
----
-
-## 🛠 Dev Tools
+### TOOLS
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,yarn"/>
+<img src="https://skillicons.dev/icons?i=git"/>
 
-<img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 
-<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
 
-</p>
+<img src="https://skillicons.dev/icons?i=postman"/>
 
----
+<img src="https://skillicons.dev/icons?i=npm"/>
 
-## 🎬 Creative Suite
+<img src="https://skillicons.dev/icons?i=yarn"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira"/>
 
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha"/>
 
 </p>
 
+</td>
+
+</tr>
+</table>
+
 ---
 
-# 🚀 What I Do
+# CREATIVE
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+
+</div>
+
+---
+
+# CURRENT FOCUS
 
 ```text
-💻 Full Stack Web Development
+Designing scalable full-stack applications
 
-⚡ REST APIs & Authentication
+Building secure REST APIs
 
-🌐 Responsive UI Development
+Developing smart contracts with Solidity
 
-🔗 Blockchain / Smart Contracts
+Creating responsive Angular & React interfaces
 
-🗄 Database Design
+Database architecture and optimization
 
-☁ Dockerized Applications
+Containerized deployments with Docker
 
-🎨 UI/UX Focused Development
-
-📈 Performance Optimization
+Performance-first engineering
 ```
 
 ---
 
-# 📊 GitHub Analytics
+# GITHUB ANALYTICS
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=akhil-kailas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.shion.dev/api?username=akhil-kailas&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=akhil-kailas&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=akhil-kailas&layout=compact&theme=transparent&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://streak-stats.demolab.com?user=akhil-kailas&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-</p>
+<img width="97%" src="https://streak-stats.demolab.com?user=akhil-kailas&theme=transparent&hide_border=true"/>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akhil-kailas&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+# CONTRIBUTION MAP
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-kailas&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-kailas&theme=github-dark&hide_border=true&bg_color=00000000&line=58A6FF&point=FFFFFF&color=C9D1D9"/>
 
-</p>
-
----
-
-# 💡 Quote of the Day
-
-<p align="center">
-
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
-
-</p>
+</div>
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-⭐ Building scalable applications with clean architecture ⭐
+```
+while(alive){
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
 
-</h3>
+</div>
 
-<p align="center">
+---
 
-<img src="https://komarev.com/ghpvc/?username=akhil-kailas&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<div align="center">
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=akhil-kailas&style=flat-square&color=3FA9F5"/>
+
+</div>
