@@ -1,5 +1,5 @@
-# About Me:
-Full stack developer 
+
+# Full stack developer 
 
 
 ## 🌐 Socials:
