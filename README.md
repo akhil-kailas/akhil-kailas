@@ -1,68 +1,184 @@
+<!-- ========================= HEADER ========================= -->
 
-# Full stack developer 
+<h1 align="center">
+  Hi 👋, I'm Akhil Kailas
+</h1>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhilkailas_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilkailas017) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@akhilkailas_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhilkailas2001@gmail.com) 
-
-# <h2 align="center">💻 Tech Arsenal</h2>
-
-<p align="center">
-
-### 🌐 Frontend
+<h3 align="center">
+Full Stack Developer • Web3 Enthusiast • UI/UX Lover
+</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%7C+React+%7C+Node.js;Blockchain+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
-### ⚙️ Backend & Blockchain
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<a href="https://instagram.com/akhilkailas_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/akhilkailas017">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@akhilkailas_">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:akhilkailas2001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# ⚡ Tech Arsenal
+
+## 🎨 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap"/>
+
+</p>
+
+---
+
+## ⚙ Backend & Web3
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+
 </p>
 
-### 🗄️ Database
+---
+
+## 🗄 Database
 
 <p align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
+
 </p>
 
-### 🛠️ Tools
+---
+
+## 🛠 Dev Tools
 
 <p align="center">
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,yarn"/>
+
 <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
+
 </p>
 
-### 🎨 Creative
+---
+
+## 🎬 Creative Suite
 
 <p align="center">
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
-<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 What I Do
+
+```text
+💻 Full Stack Web Development
+
+⚡ REST APIs & Authentication
+
+🌐 Responsive UI Development
+
+🔗 Blockchain / Smart Contracts
+
+🗄 Database Design
+
+☁ Dockerized Applications
+
+🎨 UI/UX Focused Development
+
+📈 Performance Optimization
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=akhil-kailas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=akhil-kailas&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-⭐ <b>Passionate about Full-Stack Development • Web3 • Scalable Applications</b> ⭐
-</p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=akhil-kailas&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=akhil-kailas&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=akhil-kailas&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="https://streak-stats.demolab.com?user=akhil-kailas&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akhil-kailas&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-kailas&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💡 Quote of the Day
+
+<p align="center">
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Building scalable applications with clean architecture ⭐
+
+</h3>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=akhil-kailas&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
