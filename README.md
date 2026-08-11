@@ -1,201 +1,73 @@
-<!-- ===================================================== -->
-<!--                  AKHIL KAILAS PROFILE                 -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-# AKHIL KAILAS
-
-### Full Stack Developer · Web3 Engineer · Building Modern Web Applications
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=3FA9F5&center=true&vCenter=true&width=700&lines=Angular+%7C+React+%7C+Node.js;Express.js+%7C+MongoDB+%7C+PostgreSQL;Blockchain+Developer;Hyperledger+Fabric+%7C+Solidity;Building+Scalable+Applications"/>
-
-</div>
-
----
-
-<div align="center">
-
-### CONNECT
-
-<a href="https://linkedin.com/in/akhilkailas017">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/akhilkailas_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@akhilkailas_">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="mailto:akhilkailas2001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# STACK
-
-<table align="center">
-<tr>
-
-<td valign="top" width="33%">
-
-### FRONTEND
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=ts"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=angular"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
+  <a href="https://github.com/akhil-kailas">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Akhil" alt="Hello! I&#39;m Akhil" />
+  </a>
 </p>
 
-</td>
-
-<td valign="top" width="33%">
-
-### BACKEND
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=redis"/>
-
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=360&height=44&lines=Full%20stack%20Developer;Blockchain%20Developer" alt="Typing headlines" />
 </p>
 
-</td>
+### 🚀 About Me
 
-<td valign="top" width="33%">
+I'm a Full Stack Developer focused on building modern web applications with React, Angular, TypeScript, JavaScript, Tailwind CSS, and MongoDB. I'm passionate about learning new technologies and building clean, scalable applications. I also completed basic blockchain training through Kerala Blockchain Academy, where I learned the fundamentals of Solidity and Hyperledger.
 
-### TOOLS
+### 🛠️ Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 </p>
 
-</td>
+### 🔗 Connect With Me
 
-</tr>
-</table>
+<p align="left">
+  <a href="https://linkedin.com/in/akhilkailas017" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/akhilkailas_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://youtube.com/@akhilkailas_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://gist.github.com/akhil-kailas" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:akhilkailas2001@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
----
+### 📊 GitHub Stats
 
-# CURRENT FOCUS
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=akhil-kailas&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=akhil-kailas&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-```text
-Building scalable full-stack applications
+### 📈 Contribution Graph
 
-REST API Development with Express.js
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-kailas&bg_color=00000000&color=a855f7&line=a855f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-Angular & React Frontend Engineering
+### 💭 Dev Quote
 
-Blockchain Development using Hyperledger Fabric & Solidity
-
-Authentication & Secure Architectures
-
-Database Design and Performance Optimization
-
-Dockerized Deployments
-
-Clean Architecture & Maintainable Code
-```
-
----
-
-# GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.shion.dev/api?username=akhil-kailas&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
-
-<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=akhil-kailas&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="97%" src="https://streak-stats.demolab.com?user=akhil-kailas&theme=transparent&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
-
-# CONTRIBUTION MAP
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-kailas&theme=github-dark&hide_border=true&bg_color=00000000&line=58A6FF&point=FFFFFF&color=C9D1D9"/>
-
-</div>
-
----
-
-<div align="center">
-
-```cpp
-class Developer {
-public:
-    void dailyRoutine() {
-        while (true) {
-            Learn();
-            Build();
-            Debug();
-            Improve();
-        }
-    }
-};
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=akhil-kailas&style=flat-square&color=3FA9F5"/>
-
-</div>
+<p align="center"><i>⭐️ From <a href="https://github.com/akhil-kailas">akhil-kailas</a></i></p>
