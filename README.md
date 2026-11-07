@@ -1,9 +1,5 @@
 # Hi, I'm Akhil Kailas 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=450&height=50&lines=Full+Stack+Developer;Backend+Developer;Building+Scalable+Applications" />
-</p>
-
 ### 👨‍💻 About Me
 
 Full Stack Developer with **1 year 11 months of professional experience**, specializing in backend development, REST APIs, and database optimization.
